@@ -1,0 +1,2 @@
+# LETS-SOPT-ANDROID_TEMPLATE
+DIVE SOPT Android 과제 템플릿입니다~
